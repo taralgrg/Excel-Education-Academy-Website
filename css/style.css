@@ -4,6 +4,8 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
+
+
 html, body{
     font-size: 100%;
 	background:	#fff;
@@ -402,7 +404,7 @@ span.color2{
 	border-bottom: 1px solid #D9D9D9;
 }
 /*-- load-more --*/
-#myList li{ 
+#myList li{
 	display:none;
 	list-style-type:none;
 	margin-bottom:1em;
@@ -687,7 +689,7 @@ span.color2{
 	bottom: 20px;
 	right: 2%;
 	overflow: hidden;
-	z-index: 999; 
+	z-index: 999;
 	width: 32px;
 	height: 32px;
 	border: none;
@@ -1298,7 +1300,7 @@ li.list-group-item1 {
 .label {
   font-weight: 300 !important;
   border-radius:4px;
-}  
+}
 .grid_5{
 	background:none;
 	padding:2em 0;
@@ -1930,6 +1932,7 @@ h2.typoh2{
 	.da-thumbs li a div h5 {
 		margin: 0.5em 0 0 0;
 	}
+
 	.mail-grid-left-pos {
 		width: 35%;
 	}
